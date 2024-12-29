@@ -1,0 +1,94 @@
+4366
+2974
+5620
+6034
+4293
+8555
+2981
+7662
+Found 8 articles
+
+Article 1:
+Title: United States Joins Lawsuit Against Former Executives of Kabbage Inc.  Alleging False Claims Act Violations in Connection with Paycheck Protection Program Lending
+Date: 2024-12-20
+Link: https://www.justice.gov/opa/pr/united-states-joins-lawsuit-against-former-executives-kabbage-inc-alleging-false-claims-act
+Summary: The U.S. has filed a complaint against former Kabbage Inc. executives Robert Frohwein, Kathryn Petralia, and Spencer Robinson for allegedly violating the False Claims Act by submitting false claims for loan forgiveness and guarantees related to the Paycheck Protection Program.
+
+---
+
+Article 2:
+Title: Medicare Advantage Provider Independent Health to Pay Up To $98M to Settle False Claims Act Suit
+Date: 2024-12-20
+Link: https://www.justice.gov/opa/pr/medicare-advantage-provider-independent-health-pay-98m-settle-false-claims-act-suit
+Summary: Independent Health Association and its affiliate have agreed to pay up to $98 million to settle allegations of submitting invalid diagnosis codes to Medicare, inflating payments for their Medicare Advantage Plans, while also entering a five-year corporate integrity agreement to ensure compliance.
+
+---
+
+Article 3:
+Title: Sixteen Cardiology Practices to Pay a Total of $17.7M to Resolve False Claims Act Allegations Concerning Inflated Medicare Reimbursements
+Date: 2024-12-20
+Link: https://www.justice.gov/opa/pr/sixteen-cardiology-practices-pay-total-177m-resolve-false-claims-act-allegations-concerning
+Summary: Sixteen cardiology practices across 12 states have agreed to pay a total of $17.76 million to settle allegations of overbilling Medicare for diagnostic radiopharmaceuticals, violating the False Claims Act.
+
+Healthcare Providers:
+  - Provider Mohammed Kazimuddin
+  - Doctor Arjumand Hashmi
+  - Doctor Edward W. Leahey M.D.
+  - Provider Edward Leahey
+  - Provider Ayim Djamson
+  - Provider Mario Criscito
+  - Provider Frank Iacovone
+  - Provider Sameer Kaul
+  - Provider Mahamadu Fuseini
+  - Provider Melecio Abordo
+  - Provider June Abadilla
+  - Doctor James R. Higgins
+  - Provider James Higgins
+  - Provider Margaret Kuykendall
+  - Provider Seth Barnes
+  - Provider Fareeha Khan
+
+---
+
+Article 4:
+Title: Rapid Health Agrees to Pay $8.2M for Allegedly Billing Medicare for Over-the-Counter COVID-19 Tests That Were Not Provided to Beneficiaries
+Date: 2024-12-20
+Link: https://www.justice.gov/opa/pr/rapid-health-agrees-pay-82m-allegedly-billing-medicare-over-counter-covid-19-tests-were-not
+Summary: Rapid Health, a Los Angeles pharmacy, has agreed to pay $8,242,860 to settle allegations of submitting false Medicare claims for over-the-counter Covid-19 tests that were never provided to beneficiaries during a government demonstration project.
+
+---
+
+Article 5:
+Title: Chemonics International Inc. to Pay $3.1M to Resolve Allegations of Fraudulent Billing Under Global Health Supply Chain Contract
+Date: 2024-12-19
+Link: https://www.justice.gov/opa/pr/chemonics-international-inc-pay-31m-resolve-allegations-fraudulent-billing-under-global
+Summary: Chemonics International Inc. has agreed to pay over $3.1 million to settle allegations of submitting fraudulent claims to USAID, stemming from its subcontractor's overcharging for delivery services in Nigeria, which the company failed to detect due to inadequate oversight.
+
+---
+
+Article 6:
+Title: Justice Department Files Nationwide Lawsuit Alleging CVS Knowingly Dispensed Controlled Substances in Violation of the Controlled Substances Act and the False Claims Act
+Date: 2024-12-18
+Link: https://www.justice.gov/opa/pr/justice-department-files-nationwide-lawsuit-alleging-cvs-knowingly-dispensed-controlled
+Summary: The Justice Department has filed a civil complaint against CVS Pharmacy Inc., alleging that the company filled unlawful prescriptions for controlled substances, contributing to the opioid crisis and violating both the Controlled Substances Act and the False Claims Act.
+
+---
+
+Article 7:
+Title: Homeland Security Investigations Special Agent Indicted for Drug Distribution Conspiracy
+Date: 2024-12-18
+Link: https://www.justice.gov/opa/pr/homeland-security-investigations-special-agent-indicted-drug-distribution-conspiracy
+Summary: Special Agent David Cole of Homeland Security Investigations has been indicted for conspiring to sell "bath salts" using his position to profit from illegal drug sales in Utah.
+
+---
+
+Article 8:
+Title: Doctor Pleads Guilty in $5.5M COVID-19 Fraud Scheme
+Date: 2024-12-16
+Link: https://www.justice.gov/opa/pr/doctor-pleads-guilty-55m-covid-19-fraud-scheme
+Summary: A Texas physician, Mark Mazzare, pleaded guilty to participating in a $5.5 million fraud scheme involving unnecessary over-the-counter COVID-19 tests billed to Medicare, and he faces up to five years in prison.
+
+Healthcare Providers:
+  - Physician Mark Mazzare, M.D.
+
+---
