@@ -1,0 +1,30 @@
+INFO:scraping.article_extractor:Extracted 2 unique articles
+4465
+6310
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Found 2 articles
+
+Article 1:
+Title: Notorious Violent Mexican Cartel Leader Sentenced to Life Plus 30 Years in Prison for International Drug Trafficking and Firearms Offenses
+Date: 2025-03-07
+Link: https://www.justice.gov/opa/pr/notorious-violent-mexican-cartel-leader-sentenced-life-plus-30-years-prison-international
+Summary: Ruben Oseguera-Gonzalez, a dual U.S.-Mexican national and co-founder of the Cartel de Jalisco Nueva Generación, was sentenced to life in prison plus 30 years for his leadership in a major drug trafficking conspiracy and ordered to forfeit over $6 billion, marking a significant victory in the fight against drug cartels.
+
+---
+
+Article 2:
+Title: Health Care Providers and Laboratory Marketers Agree to Pay Over $1.9 Million to Settle Kickback Allegations
+Date: 2025-03-06
+Link: https://www.justice.gov/opa/pr/health-care-providers-and-laboratory-marketers-agree-pay-over-19-million-settle-kickback
+Summary: Several medical professionals and their practices, along with Curis Healthcare Inc. and other entities, have agreed to pay nearly $1.9 million to settle allegations of violating the False Claims Act through kickback schemes related to laboratory referrals, while also agreeing to cooperate with ongoing investigations.
+
+Healthcare Providers:
+  - Doctor Gerald Congdon, M.D.
+  - Doctor Gbenga Aluko, M.D.
+  - Doctor Anup Banerjee, M.D.
+
+---
+
