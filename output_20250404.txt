@@ -1,0 +1,51 @@
+INFO:scraping.article_extractor:Extracted 4 unique articles
+2981
+5002
+3395
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2879
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Found 4 articles
+
+Article 1:
+Title: United States Files False Claims Act Complaint Against Vohra Wound Physicians Management and Its Owner Alleging False Claims for Wound Care Services
+Date: 2025-04-04
+Link: https://www.justice.gov/opa/pr/united-states-files-false-claims-act-complaint-against-vohra-wound-physicians-management-and
+Summary: The United States has filed a False Claims Act complaint against Vohra Wound Physicians Management LLC and its founder Dr. Ameet Vohra for allegedly submitting false Medicare claims for overbilled and unnecessary wound care services, utilizing fraudulent billing practices and software to maximize revenue.
+
+Healthcare Providers:
+  - Provider Ameet Vohra, MD
+
+---
+
+Article 2:
+Title: Louisiana Chiropractor Convicted of Health Care Fraud and Unemployment Insurance Fraud
+Date: 2025-04-02
+Link: https://www.justice.gov/opa/pr/louisiana-chiropractor-convicted-health-care-fraud-and-unemployment-insurance-fraud
+Summary: Dr. Benjamin Tekippe, a Louisiana chiropractor, was convicted of health care and unemployment insurance fraud for submitting over $2.3 million in false claims to Blue Cross Blue Shield and receiving $12,952 in unentitled unemployment benefits, with potential sentences totaling up to 80 years in prison.
+
+Healthcare Providers:
+  - Chiropractor Benjamin Tekippe, DC
+
+---
+
+Article 3:
+Title: Florida Man Pleads Guilty to Multi-Million Dollar Scheme to Defraud Medicare
+Date: 2025-04-02
+Link: https://www.justice.gov/opa/pr/florida-man-pleads-guilty-multi-million-dollar-scheme-defraud-medicare
+Summary: A Florida man, Corey Alston, pleaded guilty to fraudulently submitting over $8.4 million in false Medicare claims for ineligible COVID-19 test kits by illegally purchasing beneficiary identification numbers, with sentencing scheduled for July 9.
+
+---
+
+Article 4:
+Title: DRI Relays Inc. to Pay $15.7M to Settle False Claims Act Allegations Involving the Sale of Non-Military Grade Parts to Department of Defense
+Date: 2025-04-01
+Link: https://www.justice.gov/opa/pr/dri-relays-inc-pay-157m-settle-false-claims-act-allegations-involving-sale-non-military
+Summary: DRI Relays Inc., a TE Connectivity subsidiary, has agreed to pay $15.7 million to settle allegations of supplying military parts that failed to meet specifications, violating the False Claims Act, after disclosing testing failures to the Department of Defense.
+
